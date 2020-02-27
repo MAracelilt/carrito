@@ -1,1 +1,3 @@
 # carrito
+
+npm install
